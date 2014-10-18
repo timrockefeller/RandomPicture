@@ -1,9 +1,8 @@
-test.helloworld
-===============
+so, when i found the github is july 2014, i am a late commer lol....
 
-The first program on github.
+this program is run in the Prosessing, with the java enviroment..
 
 
-this is a world for Keyshine company...
 
-EVERYONE was come form nubby, so never give up in EVERYWHERE!
+
+……好吧不会E文的我又回来啦……23333
